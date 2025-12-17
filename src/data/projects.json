@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Website Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A responsive website that presents personal information, skills, projects, and contact details in a clean and professional layout.",
+    "skills": ["React", "JavaScript", "CSS", "HTML"]
+  },
+  {
+    "title": "RESTful API for To-Do Application",
+    "imageSrc": "projects/project.png",
+    "description": "A backend service that provides RESTful APIs to manage tasks, including creating, updating, deleting, and retrieving to-do items.",
+    "skills": ["Java", "Node"]
+  },
+  {
+    "title": "User Authentication System",
+    "imageSrc": "projects/project.png",
+    "description": "A backend system that handles user registration, login, password hashing, and authentication using JSON Web Tokens (JWT).",
+    "skills": ["JavaScript", "Node", "MySql"]
+  }
+]
