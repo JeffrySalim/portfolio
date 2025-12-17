@@ -1,4 +1,4 @@
-import './App.css'
+import './App.module.css'
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
 import { Contact } from "./components/Contact/Contact";
